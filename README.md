@@ -17,6 +17,6 @@ https://pythoninchemistry.org/sim_and_scat/intro \
 https://courses.grainger.illinois.edu/mse485/fa2019/Homework2.html \
 https://tutorial.pyvista.org/tutorial/00_intro/index.html \
 https://docs.pytorch.org/docs/2.14/index.html \
-https://www.youtube.com/watch?v=iSEAidM-DDI \ 
-https://www.youtube.com/watch?v=ipRnvs7_CxA \ 
+https://www.youtube.com/watch?v=iSEAidM-DDI \
+https://www.youtube.com/watch?v=ipRnvs7_CxA \
 https://www.youtube.com/watch?v=ChQbBqndwIA 
