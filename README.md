@@ -10,7 +10,7 @@ OS: Windows 11 Home \
 CPU: Intel(R) Core(TM) Ultra 9 285H (2nd Gen) \
 RAM: 32 GB LPDDR5 RAM (Soldered) \
 Intel(R) AI Boost \
-GPU: 5070Ti Laptop GPU (12GB VRAM) \
+GPU: 5070Ti Laptop GPU (12GB VRAM) 
 
 ### GOOD RESOURCES TO CHECK OUT (THEY HELPED IMMENSELY):
 https://pythoninchemistry.org/sim_and_scat/intro \
@@ -19,4 +19,4 @@ https://tutorial.pyvista.org/tutorial/00_intro/index.html \
 https://docs.pytorch.org/docs/2.14/index.html \
 https://www.youtube.com/watch?v=iSEAidM-DDI \ 
 https://www.youtube.com/watch?v=ipRnvs7_CxA \ 
-https://www.youtube.com/watch?v=ChQbBqndwIA \
+https://www.youtube.com/watch?v=ChQbBqndwIA 
